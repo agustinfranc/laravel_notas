@@ -1,0 +1,18 @@
+[06-Jul-2019 17:18:25 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[06-Jul-2019 17:18:25 UTC] PHP Warning:  require(/home3/visualbar/public_html/test/../vendor/autoload.php): failed to open stream: No such file or directory in /home3/visualbar/public_html/test/index.php on line 24
+[06-Jul-2019 17:18:25 UTC] PHP Fatal error:  require(): Failed opening required '/home3/visualbar/public_html/test/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home3/visualbar/public_html/test/index.php on line 24
+[06-Jul-2019 17:18:28 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[06-Jul-2019 17:18:28 UTC] PHP Warning:  require(/home3/visualbar/public_html/test/../vendor/autoload.php): failed to open stream: No such file or directory in /home3/visualbar/public_html/test/index.php on line 24
+[06-Jul-2019 17:18:28 UTC] PHP Fatal error:  require(): Failed opening required '/home3/visualbar/public_html/test/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home3/visualbar/public_html/test/index.php on line 24
+[06-Jul-2019 17:18:28 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[06-Jul-2019 17:18:28 UTC] PHP Warning:  require(/home3/visualbar/public_html/test/../vendor/autoload.php): failed to open stream: No such file or directory in /home3/visualbar/public_html/test/index.php on line 24
+[06-Jul-2019 17:18:28 UTC] PHP Fatal error:  require(): Failed opening required '/home3/visualbar/public_html/test/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home3/visualbar/public_html/test/index.php on line 24
+[06-Jul-2019 17:18:30 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[06-Jul-2019 17:18:30 UTC] PHP Warning:  require(/home3/visualbar/public_html/test/../vendor/autoload.php): failed to open stream: No such file or directory in /home3/visualbar/public_html/test/index.php on line 24
+[06-Jul-2019 17:18:30 UTC] PHP Fatal error:  require(): Failed opening required '/home3/visualbar/public_html/test/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home3/visualbar/public_html/test/index.php on line 24
+[06-Jul-2019 17:18:31 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[06-Jul-2019 17:18:31 UTC] PHP Warning:  require(/home3/visualbar/public_html/test/../vendor/autoload.php): failed to open stream: No such file or directory in /home3/visualbar/public_html/test/index.php on line 24
+[06-Jul-2019 17:18:31 UTC] PHP Fatal error:  require(): Failed opening required '/home3/visualbar/public_html/test/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home3/visualbar/public_html/test/index.php on line 24
+[06-Jul-2019 17:18:32 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[06-Jul-2019 17:18:32 UTC] PHP Warning:  require(/home3/visualbar/public_html/test/../vendor/autoload.php): failed to open stream: No such file or directory in /home3/visualbar/public_html/test/index.php on line 24
+[06-Jul-2019 17:18:32 UTC] PHP Fatal error:  require(): Failed opening required '/home3/visualbar/public_html/test/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home3/visualbar/public_html/test/index.php on line 24
