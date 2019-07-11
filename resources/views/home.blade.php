@@ -15,6 +15,10 @@
                     @endif
 
                     You are logged in!
+
+                    <a class="btn btn-link" href="/notas">
+                        Ver mis notas
+                    </a>
                 </div>
             </div>
         </div>
