@@ -66,7 +66,7 @@ class LoginController extends Controller
 
             Auth::login($findUser);
 
-            return view('home');
+            return view('notas');
         }
         else {
 
@@ -78,7 +78,7 @@ class LoginController extends Controller
 
             Auth::login($user);
 
-            return view('home');
+            return view('notas');
         }
 
         //return ($user->getId());
