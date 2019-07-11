@@ -66,7 +66,8 @@ class LoginController extends Controller
 
             Auth::login($findUser);
 
-            return view('notas.lista');
+            //return view('home');
+            return Redirect::to('/notas');
         }
         else {
 
@@ -78,7 +79,9 @@ class LoginController extends Controller
 
             Auth::login($user);
 
-            return view('notas.lista');
+            //return view('home');
+            return Redirect::to('/notas');
+
         }
 
         //return ($user->getId());
